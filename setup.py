@@ -4,7 +4,7 @@ with open("README.md","r") as fh:
 
 setuptools.setup(
     name="arr_deal",
-    version="0.0.2",
+    version="0.0.1",
     author="Shubham Rajak",
     description="Just a small effort",
     long_description=long_description,
