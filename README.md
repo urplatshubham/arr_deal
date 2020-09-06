@@ -6,6 +6,6 @@ class searching
   
 2. Sort the list in ascending or descending order
 class sorting
-  methods bubble_sort_ascend() and bubble_sort_descend()
+  method: bubble_sort_ascend() and bubble_sort_descend()
 
   
